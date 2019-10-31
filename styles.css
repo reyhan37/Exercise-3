@@ -21,7 +21,7 @@ h1 {
     border: 2px solid cornflowerblue;
     margin: 5px;
     padding: 3px;
-    width: 50%;
+    width: 50vw;
 }
 
 header a {
@@ -54,6 +54,7 @@ header a {
 }
 
 footer {
+    align-items: center;
     border: 2px solid cornflowerblue;
     display: flex;
     justify-content: space-between;
@@ -73,7 +74,7 @@ nav {
     display: flex;
     justify-content: space-around;
     margin: 5px;
-    width: 50%;
+    width: 50vw;
 }
 
 nav a {
