@@ -1,0 +1,84 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    height: 100vh;
+}
+
+header {
+    align-items: center;
+    border: 2px solid cornflowerblue;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 3px;
+}
+
+h1 {
+    border: 2px solid cornflowerblue;
+    margin: 5px;
+    padding: 3px;
+    width: 50%;
+}
+
+header a {
+    border: 2px solid cornflowerblue;
+    margin: 5px;
+    padding: 3px;
+}
+
+.middleContainer {
+    border: 2px solid cornflowerblue;
+    display: flex;
+    height: 62vh;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 3px;
+}
+
+.mainArt {
+    border: 2px solid cornflowerblue;
+    flex: 3;
+    margin: 5px;
+    padding: 3px;
+}
+
+.sidebar {
+    border: 2px solid cornflowerblue;
+    flex: 1;
+    margin: 5px;
+    padding: 3px;
+}
+
+footer {
+    border: 2px solid cornflowerblue;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 3px;
+}
+
+footer p {
+    border: 2px solid cornflowerblue;
+    margin: 5px;
+    padding: 3px;
+}
+
+nav {
+    align-items: center;
+    border: 2px solid cornflowerblue;
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+    width: 50%;
+}
+
+nav a {
+    border-left: 2px solid cornflowerblue;
+    border-right: 2px solid cornflowerblue;
+    margin: 0 5px;
+    padding: 3px;
+}
